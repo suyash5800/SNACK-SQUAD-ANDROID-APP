@@ -1,0 +1,34 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Android-specific files
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/local.properties
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.log
+
+# Ignore app build folder
+/app/build
+
+# Ignore Android Studio specific
+.idea/
+*.iws
+*.ipr
+
+# Keystore files (be careful!)
+*.jks

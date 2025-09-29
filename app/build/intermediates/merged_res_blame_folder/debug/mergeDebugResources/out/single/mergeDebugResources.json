@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable-nodpi_fast_food.png.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable-nodpi/fast_food.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_fries.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/fries.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_icon.png.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/icon.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_pop.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/pop.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xhdpi_burger_foreground.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xhdpi/burger_foreground.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_cookies.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/cookies.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_sandwish.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/sandwish.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xxxhdpi_burger_round.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xxxhdpi/burger_round.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-hdpi_burger.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-hdpi/burger.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-anydpi-v26_burger.xml.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-anydpi-v26/burger.xml"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-mdpi_burger.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-mdpi/burger.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_login_screen.png.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/login_screen.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_popcorn.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/popcorn.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xxhdpi_burger_round.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xxhdpi/burger_round.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_burger1.jpeg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/burger1.jpeg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xxxhdpi_burger.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xxxhdpi/burger.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xhdpi_burger_round.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xhdpi/burger_round.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_ice.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/ice.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xxxhdpi_burger_foreground.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xxxhdpi/burger_foreground.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_food_tip_im.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/food_tip_im.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_pack.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/pack.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-anydpi-v26_burger_round.xml.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-anydpi-v26/burger_round.xml"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_burger.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/burger.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xhdpi_burger.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xhdpi/burger.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_img.png.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable-nodpi_burger.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable-nodpi/burger.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_order1.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/order1.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_register.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/register.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-hdpi_burger_foreground.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-hdpi/burger_foreground.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-hdpi_burger_round.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-hdpi/burger_round.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_salad.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/salad.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_order.png.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/order.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xxhdpi_burger.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xxhdpi/burger.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xxhdpi_burger_foreground.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xxhdpi/burger_foreground.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_pasta.jpg.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/pasta.jpg"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-mdpi_burger_foreground.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-mdpi/burger_foreground.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.snackordering.app-main-42:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/mipmap-mdpi_burger_round.png.flat",
+        "source": "com.example.snackordering.app-main-42:/mipmap-mdpi/burger_round.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_login.png.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/login.png"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_burger_background.xml.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/burger_background.xml"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/xml_backup_rules.xml.flat",
+        "source": "com.example.snackordering.app-main-42:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.snackordering.app-debug-40:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.snackordering.app-main-42:/drawable/ic_launcher_foreground.xml"
+    }
+]
